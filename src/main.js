@@ -5,7 +5,9 @@ import vscodeRouterFile from "@kummy/vscode-router-file";
 
 Vue.config.productionTip = false;
 
-Vue.use(vscodeRouterFile);
+if(process.env.NODE_ENV === 'development') {
+    Vue.use(vscodeRouterFile);
+}
 
 new Vue({
     router,

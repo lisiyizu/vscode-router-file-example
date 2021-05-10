@@ -27,10 +27,15 @@ module.exports = {
 第二步， 安装  yarn add @kummy/vscode-router-file
 ```javascript
 import vscodeRouterFile from "@kummy/vscode-router-file";
-Vue.use(vscodeRouterFile, {
-	style: {}, // 样式覆盖
-  innerHTML: "<div>&lt;VSCODE/&gt;</div>" // html 内容覆盖
-});
+
+if(process.env.NODE_ENV === 'development') {
+	Vue.use(vscodeRouterFile)
+}	
+
+// Vue.use(vscodeRouterFile, {
+// 	style: {}, // 样式覆盖
+//  innerHTML: "<div>&lt;VSCODE/&gt;</div>" // html 内容覆盖
+// });
 ```
 
 如果完成以上👆步骤，出现下图👇所示，证明可以使用了。

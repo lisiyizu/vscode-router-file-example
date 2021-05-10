@@ -735,6 +735,11 @@
     cssnano-preset-default "^4.0.0"
     postcss "^7.0.0"
 
+"@kummy/vscode-router-file@^0.0.6":
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/@kummy/vscode-router-file/-/vscode-router-file-0.0.6.tgz#ab4fdaeffda923022825c058cb36fce518d705c6"
+  integrity sha512-JypDYNYJSwe8dXLgvJsmnK+X/IL46NMvmduu4oZAzbHiVmF28sG0N3m7VZFOdwFyffsArdx3EM1bD92CfqSGWg==
+
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/@mrmlnc/readdir-enhanced/-/readdir-enhanced-2.2.1.tgz#524af240d1a360527b730475ecfa1344aa540dde"
