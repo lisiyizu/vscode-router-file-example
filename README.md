@@ -4,6 +4,8 @@
 
 示例：[https://github.com/lisiyizu/vscode-router-file-example](https://github.com/lisiyizu/vscode-router-file-example)
 
+文章：[https://juejin.cn/post/6960480138525933599](https://juejin.cn/post/6960480138525933599)
+
 ## vscode-router-file 使用教程
 
 第一步，安装一个webpack小插件： yarn add virtual-module-cwd
