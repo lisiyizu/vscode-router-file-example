@@ -735,10 +735,10 @@
     cssnano-preset-default "^4.0.0"
     postcss "^7.0.0"
 
-"@kummy/vscode-router-file@^0.0.6":
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/@kummy/vscode-router-file/-/vscode-router-file-0.0.6.tgz#ab4fdaeffda923022825c058cb36fce518d705c6"
-  integrity sha512-JypDYNYJSwe8dXLgvJsmnK+X/IL46NMvmduu4oZAzbHiVmF28sG0N3m7VZFOdwFyffsArdx3EM1bD92CfqSGWg==
+"@kummy/vscode-router-file@^0.0.7":
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/@kummy/vscode-router-file/-/vscode-router-file-0.0.7.tgz#58687363265e4176d22b07ec42961de1ff8de477"
+  integrity sha512-qHWMYlU/9WSIOWgk5hQXrjD4YK70lA/tHavKZhnbWVUqNY71uvsBeF44b76zlQEGxMCc80rPUvARVUSgunPxaA==
 
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
@@ -8216,10 +8216,10 @@ verror@1.10.0:
     core-util-is "1.0.2"
     extsprintf "^1.2.0"
 
-virtual-module-cwd@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/virtual-module-cwd/-/virtual-module-cwd-1.0.0.tgz#c4ae74b1a2f550c460a6fecc1340bb0d4e0fab6b"
-  integrity sha512-D6I3xyHniFCBZwkO/Gg88meYGa+4+ezEpon3Q9flUvHYQTWVUPUjXzQBvx+2xHeFaDrDiEoLx7Tm9cpBe1J17g==
+virtual-module-cwd@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/virtual-module-cwd/-/virtual-module-cwd-1.0.1.tgz#6ada416587e27890b4491048399285c3d06e0884"
+  integrity sha512-tTyE1rOsZVIKXOX8PGhBUOzPUjnXjqSh5f1KSPZrUM6G2DGUuILuvsKKV1q7nhRBFi8A2ugPvkmbDgL2U2R/aA==
   dependencies:
     webpack-virtual-modules "^0.4.2"
 

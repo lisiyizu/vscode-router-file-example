@@ -8,10 +8,10 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "@kummy/vscode-router-file": "^0.0.6",
+    "@kummy/vscode-router-file": "^0.0.7",
     "@vue/eslint-config-standard": "^4.0.0",
     "core-js": "^2.6.5",
-    "virtual-module-cwd": "^1.0.0",
+    "virtual-module-cwd": "^1.0.1",
     "vue": "^2.6.10",
     "vue-router": "^3.0.3"
   },
